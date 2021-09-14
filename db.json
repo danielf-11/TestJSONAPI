@@ -1,1 +1,15 @@
+{
+"Hotel":[
+    {
+        "id" : 0,
+        "image": "",
+        "Title": "",
+        "Description": "",
+        "Rating": 0,
+        "Included" :"",
+        "Price" : 0.0,
+        "PPP" : 0
+    }
+]
 
+}
